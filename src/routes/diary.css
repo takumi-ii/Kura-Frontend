@@ -1,0 +1,9 @@
+@charset "UTF-8";
+html {
+	width: 100vw;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	overflow: auto;
+	font-size: 12px;
+}
